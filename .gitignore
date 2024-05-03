@@ -6,3 +6,4 @@ openai.key
 .env
 test_data/*output*.csv
 *private*.json
+*.log
