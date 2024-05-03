@@ -1,0 +1,8 @@
+openai.key
+**/.DS_store
+/.venv/
+!/.venv/constraints.txt
+*.pyc
+.env
+test_data/*output*.csv
+*private*.json
